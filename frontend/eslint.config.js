@@ -1,4 +1,4 @@
-import js from '@eslint/js';   FUNPAY
+import js from '@eslint/js';   FUNXPAY
 import globals from 'globals';
 import reactHooks from 'eslint-plugin-react-hooks'; 
 import reactRefresh from 'eslint-plugin-react-refresh';
