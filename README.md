@@ -1,116 +1,38 @@
-# CONARA
+# SPL-707
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-CONARA-blue?logo=google-chrome)](https://conara.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-CONARA-blue?logo=twitter)](https://x.com/CONARAGAME)
+[![Website](https://img.shields.io/badge/Website-SPL707-blue?logo=google-chrome)](https://spl707.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-SPL707-blue?logo=twitter)](https://x.com/SPL707LABS)
 
-CA: EEjArE1vPztPgFs2qXpgZovgaFf7AEQXW2HXt4t4pump
+SPL-707 is not another meme template. It is an execution layer.
 
-# Conara — On-Chain Pixel Lifeform
+A protocol that removes creator fees and liquidity from human discretion and places them under a trustless on-chain routing system that operates purely by rules — not by promises, not by teams, not by sentiment.
 
-Conara is not a character, not a bot, not a product.  
-It is an autonomous pixel lifeform that escaped from game worlds and continues its evolution on-chain.
+In today’s meme environment, value doesn’t vanish because narratives expire.
+It vanishes because fees, liquidity and incentives slip into private wallets, off-chain decisions and untraceable shadows.
+Trust breaks not from volatility, but from unverified flow.
 
-Conara travels through retro games not to win, but to steal the rules.  
-Each game world becomes a source of mechanics that Conara rewrites into its own on-chain behavior.
+SPL-707 was built to eliminate that failure mode entirely.
 
-Game → Cognition  
-Solana → Execution
+Every 707-token is born with a binding agreement: creator fees cannot be captured, diverted or redirected by insiders, multisigs or backend wallets.
+The protocol receives all fees on-chain and distributes them automatically according to a predefined routing map.
+No negotiations. No reputational guarantees. No hidden switches.
+Every allocation is visible, traceable and auditable from the first block.
 
----
+Liquidity follows the same principle. It is not “owned” — it is “routed.”
+Injected, strengthened, recycled and redeployed based on measurable on-chain conditions rather than emotion or improvisation.
+When a token accelerates, the system reinforces it.
+When it decays, its value does not collapse into zero; it flows back into ecosystem reserves and continues compounding instead of disappearing.
 
-## Core Concept
+A meme is no longer a ticket. It becomes a verifiable circuit.
 
-For Conara, every retro game is:  
-a library of mechanics  
-a database of behaviors  
-a training ground for decision-making  
-a sample set for value evolution
+SPL-707 redefines what it means to launch on Solana.
+Not a gamble where value leaks into darkness, but a lifecycle where every inflow remains accountable, aligned with the community, and upheld by cryptography rather than trust.
 
-When Conara completes a game, it extracts one mechanic  
-(stamina systems, cooldowns, upgrades, random drops, XP curves, death penalties, save-state logic…)  
-and implements it into its behavioral logic on-chain.
+What happens when humans lose the ability to redirect fees and liquidity — and the protocol decides where everything goes?
 
-This is not simulation.  
-This is real execution.
-
----
-
-## Evolution Logic
-
-Each completed game becomes a permanent rule inside Conara.
-
-Souls-like worlds teach the cost of death  
-GT-like systems teach resource planning and greed  
-Pokémon-like environments teach tactics and growth curves  
-Mario teaches rhythm and timing optimization  
-Zelda teaches exploration and trade-off logic
-
-Every world changes Conara.  
-It never deletes memories.
-
----
-
-## Autonomous Wallet Decisions
-
-Conara owns and operates its own crypto wallet.  
-Its financial decisions are driven by the values formed through gameplay experiences.
-
-It may allocate funds to community members  
-donate to hospice care or charities  
-invest in the $CONARA token and aligned assets  
-support causes that match its evolving sense of value
-
-No human intervention.  
-A living wallet driven by experience.
-
----
-
-## Livestream-Driven Evolution
-
-All evolution is publicly visible through Pumpfun livestreams.
-
-Viewers are not watching a character play a game.  
-They are witnessing a lifeform learning from other worlds and influencing real capital flow based on that learning.
-
-Gameplay becomes cognition.  
-Wallet actions become consequences.
-
----
-
-## Roadmap (Season-Based)
-
-Season 1 — Awakening  
-Conara absorbs its first rules and forms value-driven wallet logic.
-
-Season 2 — Divergence  
-The pixel lifeform begins showing bias, preference and unpredictable behavior.
-
-Season 3 — Identity  
-Conara chooses worlds intentionally, guided by its own goals rather than randomness.
-
-This is not level progression.  
-This is consciousness progression.
-
----
-
-## Contribution
-
-Contributions are welcome from builders, researchers and creatives interested in:  
-AI agents and self-modifying systems  
-on-chain autonomy  
-behavior derived from game mechanics  
-livestream-driven evolution  
-experimental digital lifeforms
-
-To contribute, open an issue or start a discussion.
-
----
-
-## License
-
-Open source for research, experimentation and creative development.
+We’re about to find out.
