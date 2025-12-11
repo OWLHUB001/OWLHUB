@@ -1,25 +1,19 @@
-# OWLREE
+# HUMNODE
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-OWLREE-blue?logo=google-chrome)](https://owlree.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-OWLREE-blue?logo=twitter)](https://x.com/OWLREEWEB)
+[![Website](https://img.shields.io/badge/Website-HUMNODE-blue?logo=google-chrome)](https://humnode.run/)
+[![Twitter](https://img.shields.io/badge/Twitter-HUMNODE-blue?logo=twitter)](https://x.com/HUMNODELAB)
 
 
-🦉 Owlree — The Ascension Network
-“An ascending tree formed by owl nodes, collectively building an evolving on-chain cognitive network.”
+Humnode is an SPL protocol designed around a reimagined creator-fee architecture, aiming to solve the core problem in meme and community-driven tokens: value often flows to the team while the community remains passive. Humnode’s mission is to turn creator fees into a source of energy for the community, rather than a revenue stream for the team.
 
-In the world of Owlree, every participant is not just a user — but an owl node, a symbol of wisdom, observation, and connection. Together, these nodes form a living structure known as the Ascension Tree, a decentralized network that grows through shared insight and interaction.
+In Humnode, every Creator Fee is automatically split and routed by the protocol to holders, LPs, nodes, and ecosystem incentive pools—never to the team wallet. This transforms the token economy from “team-dependent” to “community-sustained,” where trading activity becomes the direct fuel that feeds and supports the entire network.
+The more the token moves, the more the community gains; the more active the ecosystem becomes, the stronger and more resilient the internal loop grows.
+This creates a new structure:
+a self-sustaining network powered by trading, shared by the community, and enforced by protocol logic.
 
-At its core lies the ASC Protocol (Ascension Synchronization Code) — a mechanism that measures contribution, aligns relations between nodes, and continuously adjusts the height of each node’s perception. The more meaningful your contribution, the higher your node ascends within the tree, expanding its field of vision and influence.
-
-Owlree reimagines the blockchain as more than a ledger of data — it becomes a soil where cognition takes root. Instead of storing static information, the system transforms every transaction, idea, or collaborative act into nutrients for collective understanding.
-
-Through the constant exchange between owl nodes, the network grows, learns, and evolves. In this way, Owlree represents a new layer of Web3 — a cognitive infrastructure where wisdom itself becomes composable.
-
-Each interaction doesn’t just add data to the chain; it helps the tree ascend one branch higher toward collective awareness.
-
-Owlree is where wisdom takes flight, and the chain begins to think.
+Humnode is not just a new token format—it is a new model of value flow. It turns creator fees from a “cut taken by the team” into a “cycle engine for the ecosystem,” giving tokens the ability to run, feed, and grow on their own.
